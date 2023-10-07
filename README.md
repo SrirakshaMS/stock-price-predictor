@@ -22,6 +22,7 @@ The LSTM model implemented in this project is able to accurately predict stock p
 4. In the web app, you can change stock ticker labels and predict price for any stock
 
 Additional notes </br>
-The model is saved as a .h5 file. This file can be loaded and used to make predictions on new data.
-I have attached a demo image of IBM stock predictor.
+The .ipynb file conatains training the model for 'AAPL' stock. </br>
+The trained model is saved as a stock_predictor.h5 file. This file can be loaded and used to make predictions on new data.</br>
+I have attached a demo image of IBM stock predictor. </br>
 This project uses historical data for educational purposes and does not guarantee accurate or real-time stock predictions.
