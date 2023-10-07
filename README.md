@@ -17,11 +17,11 @@ The LSTM model implemented in this project is able to accurately predict stock p
 ## How to run it?
 1. Clone the repository
 2. Install dependencies
-3. In command prompt, run command
+3. In command prompt, run command </br>
    streamlit run stock_predictor_app.py
 4. In the web app, you can change stock ticker labels and predict price for any stock
 
-Additional notes
+Additional notes </br>
 The model is saved as a .h5 file. This file can be loaded and used to make predictions on new data.
 I have attached a demo image of IBM stock predictor.
 This project uses historical data for educational purposes and does not guarantee accurate or real-time stock predictions.
