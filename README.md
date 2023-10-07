@@ -1,4 +1,4 @@
-# Stock Price Predictor Web App
+# Stock Price Predictor Web App💹
 Long Short-Term Memory (LSTM) neural network to predict stock prices
 
 ### Data
