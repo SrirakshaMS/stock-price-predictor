@@ -1,8 +1,8 @@
-# Stock Price Predictor Web App💹
+# Stock Price Predictor💹
 Long Short-Term Memory (LSTM) neural network to predict stock prices
 
 ### Data
-The data used for this project is daily closing prices of Apple (AAPL) stock from January 1, 2010 to October 4, 2023. The data was downloaded from Yahoo Finance and saved as a .pkl file.
+The data used for this project is daily closing prices of Apple (AAPL) stock from January 1, 2010 to October 4, 2023. The data was downloaded from Yahoo Finance.
 ### Preprocessing
 The data is preprocessed by scaling it to the range (0, 1) using a MinMaxScaler. The data is then split into training and testing sets using a 70:30 ratio.
 ### Model
